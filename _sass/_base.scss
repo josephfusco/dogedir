@@ -2,6 +2,10 @@
 // Base
 // =============================================================================
 
+body {
+	font-family: $font-family--secondary;
+}
+
 a {
 
 	&:hover, &:focus {
@@ -11,7 +15,7 @@ a {
 
 h1 {
 	margin-bottom: 0;
-	font-size: 60px;
+	font-size: 62px;
 
 	a & {
 		font-family: $font-family--primary;
@@ -32,7 +36,7 @@ h1 {
 			max-width: 100px;
 			height: auto;
 			display: block;
-			margin: 0 auto;
+			margin: 0 20px 0 0;
 			position: relative;
 			top: -8px;
 		}

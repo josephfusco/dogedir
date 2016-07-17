@@ -1,0 +1,40 @@
+// =============================================================================
+// Base
+// =============================================================================
+
+a {
+
+	&:hover, &:focus {
+		text-decoration: none;
+	}
+}
+
+h1 {
+	margin-bottom: 0;
+	font-size: 60px;
+
+	a & {
+		font-family: $font-family--primary;
+		color: $color--text;
+	}
+}
+
+#header {
+	padding: 20px 0;
+	background-color: $color--background;
+
+	.brand {
+		max-width: 340px;
+		margin: 0 auto;
+
+		img {
+			float: left;
+			max-width: 100px;
+			height: auto;
+			display: block;
+			margin: 0 auto;
+			position: relative;
+			top: -8px;
+		}
+	}
+}

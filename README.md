@@ -1,6 +1,6 @@
 # DOGEDIR
 
-This is the home of [Dogedir.com](http://dogedir.com) - The dogecoin business directory.
+This is the home of [Dogedir.com](http://dogedir.com) - the dogecoin business directory.
 
 ## Adding A Business
 

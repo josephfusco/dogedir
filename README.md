@@ -1,14 +1,13 @@
 # DOGEDIR
 
-[Dogedir.com](http://dogedir.com), The dogecoin business directory.
+This is the home of [Dogedir.com](http://dogedir.com) - The dogecoin business directory.
 
 ![DogeCoin](assets/images/dogecoin-300.png)
 
-## What is this?
-It's Dogedir.com. Made so everyone can find real businesses to spend their dogecoin.
+## Adding A Business
 
-Dogedir.com is completely responsive, it'll look good on your smartphone, tablet, desktop, and more.
-It is completely HTML5 W3C Validated, which means it complies with the standards set by W3C.
+You can add a business by submitting a pull request! All businesses that accept dogecoin as payment are welcome.
 
-## Can I add a business?
-Yes you can!
+# What is Dogecoin?
+
+Dogecoin is a decentralized, peer-to-peer digital currency that enables you to easily send money online. Think of it as "the internet currency." You can learn more about it at [dogecoin.com](http://dogecoin.com)!

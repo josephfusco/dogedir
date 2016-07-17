@@ -1,3 +1,5 @@
+<img width="1311" alt="logo" src="https://cloud.githubusercontent.com/assets/6676674/16899097/472fe730-4bc5-11e6-8da7-74f6ff6e30f1.png">
+
 # DOGEDIR
 
 This is the home of [Dogedir.com](http://dogedir.com) - the dogecoin business directory.

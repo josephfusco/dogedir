@@ -6,11 +6,6 @@ sass:
   sass_dir:         _sass
   style:            :compressed
 
-# Custom vars
-version:             4.0.0
-github:
-  repo:              https://github.com/josephfusco/dogedir
-
 # Gems
 gems:
   - jekyll-paginate

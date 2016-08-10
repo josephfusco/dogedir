@@ -1,14 +1,11 @@
 // =============================================================================
-// Base
+// Header
 // =============================================================================
 
-body {
-	font-family: $font-family--secondary;
-}
+#header {
+	background-color: $color--background-header;
 
-a {
-
-	&:hover, &:focus {
-		text-decoration: none;
+	a {
+		color: $white;
 	}
 }

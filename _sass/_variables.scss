@@ -10,9 +10,12 @@ $font-family--secondary   : 'Open Sans', sans-serif;
 // Descriptive Color Names
 //
 $sand                     : #F2EDE1;
+$navy-blue                : #1E4151;
 $black                    : #333;
+$white                    : #FFF;
 
 // Color Assignments
 //
+$color--background-header : $navy-blue;
 $color--background        : $sand;
 $color--text              : $black;
